@@ -1,0 +1,8 @@
+dao/IOrdersDao.class
+dao/IUserDao.class
+dao/IRoleDao.class
+dao/IPermissionDao.class
+dao/IProductDao.class
+dao/IMemberDao.class
+dao/ISysLogDao.class
+dao/ITravellerDao.class

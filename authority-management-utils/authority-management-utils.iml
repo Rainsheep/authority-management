@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="JRebel" name="JRebel">
+      <configuration>
+        <option name="ideModuleStorage">
+          <map>
+            <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+            <entry key="com.zeroturnaround.jrebel.remoting.DeleteUnindexedFiles" value="false" />
+            <entry key="com.zeroturnaround.jrebel.remoting.ModuleRemoteServerSelection" value="off" />
+            <entry key="jrebelEnabled" value="true" />
+            <entry key="rebelXmlGenerationType" value="external" />
+            <entry key="savedRebelXmlBuildTool" value="maven" />
+            <entry key="savedRebelXmlContent" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;application xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns=&quot;http://www.zeroturnaround.com&quot; xsi:schemaLocation=&quot;http://www.zeroturnaround.com http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd&quot;&gt;&#10;&#10;&#9;&lt;classpath&gt;&#10;&#9;&#9;&lt;dir name=&quot;/Users/rainsheep/mycode/authority-management/authority-management/authority-management-utils/src/main/resources&quot;&gt;&#10;&#9;&#9;&lt;/dir&gt;&#10;&#9;&#9;&lt;dir name=&quot;/Users/rainsheep/mycode/authority-management/authority-management/authority-management-utils/target/classes&quot;&gt;&#10;&#9;&#9;&lt;/dir&gt;&#10;&#9;&lt;/classpath&gt;&#10;&#10;&lt;/application&gt;&#10;" />
+          </map>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+</module>

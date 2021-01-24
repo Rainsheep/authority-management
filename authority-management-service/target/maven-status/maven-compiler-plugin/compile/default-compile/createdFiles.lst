@@ -1,0 +1,12 @@
+service/impl/UserServiceImpl.class
+service/IProductService.class
+service/IOrdersService.class
+service/IPermissionService.class
+service/impl/OrdersServiceImpl.class
+service/IRoleService.class
+service/impl/ProductServiceImpl.class
+service/impl/PermissionServiceImpl.class
+service/ISysLogService.class
+service/IUserService.class
+service/impl/SysLogServiceImpl.class
+service/impl/RoleServiceImpl.class

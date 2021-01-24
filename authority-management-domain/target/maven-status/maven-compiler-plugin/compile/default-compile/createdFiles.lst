@@ -1,0 +1,8 @@
+domain/Role.class
+domain/Permission.class
+domain/SysLog.class
+domain/UserInfo.class
+domain/Orders.class
+domain/Traveller.class
+domain/Member.class
+domain/Product.class
